@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateNewStore(bt8)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fb71113-1267-4da9-94b5-614f620f73b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>eeeece50-25a2-48b9-98cc-1fee914b108c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eeeece50-25a2-48b9-98cc-1fee914b108c</id>
+      <masked>false</masked>
+      <name>add_new_store</name>
+   </variable>
+</TestCaseEntity>
